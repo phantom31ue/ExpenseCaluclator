@@ -14,7 +14,7 @@ Expense Calculator is a simple web application built with React that helps you t
 1. Clone the repository:
 
 ```shell
-git clone [https://github.com/your-username/expense-calculator.git](https://github.com/phantom31ue/ExpenseCaluclator.git)
+git clone https://github.com/phantom31ue/ExpenseCaluclator.git
 ```
 
 2. Navigate to the project directory:
